@@ -16,7 +16,7 @@ This is a simple Minesweeper game built using **Android Studio** and written in 
 <!-- Images -->
 <!-- ![Screenshot1](screenshots/screen1.png) -->
 <!-- ![Screenshot2](screenshots/screen2.png) -->
-![Screenshot1](screenshots/dark_win.jpeg)
+![Screenshots](screenshots/demo_screens.png)
 
 ## 📦 APK Download
 
